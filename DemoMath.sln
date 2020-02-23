@@ -2,6 +2,9 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDemo", "ConsoleDemo\ConsoleDemo.csproj", "{F6F669C8-0C2D-4CF2-86A3-FF290177E3EE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{93847B00-BD33-468C-9DA4-DB8A85C76459} = {93847B00-BD33-468C-9DA4-DB8A85C76459}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathOperations", "MathOperations\MathOperations.csproj", "{93847B00-BD33-468C-9DA4-DB8A85C76459}"
 EndProject
