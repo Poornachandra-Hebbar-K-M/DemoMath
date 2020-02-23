@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDemo", "ConsoleDemo\ConsoleDemo.csproj", "{F6F669C8-0C2D-4CF2-86A3-FF290177E3EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathOperations", "MathOperations\MathOperations.csproj", "{93847B00-BD33-468C-9DA4-DB8A85C76459}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6F669C8-0C2D-4CF2-86A3-FF290177E3EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6F669C8-0C2D-4CF2-86A3-FF290177E3EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6F669C8-0C2D-4CF2-86A3-FF290177E3EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6F669C8-0C2D-4CF2-86A3-FF290177E3EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93847B00-BD33-468C-9DA4-DB8A85C76459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93847B00-BD33-468C-9DA4-DB8A85C76459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93847B00-BD33-468C-9DA4-DB8A85C76459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93847B00-BD33-468C-9DA4-DB8A85C76459}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
