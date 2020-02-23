@@ -14,3 +14,4 @@ jobs:
     - name: Run a multi-line script
       run: |
         dir "C:\Program Files (x86)\Microsoft Visual Studio"
+        MSBuild DemoMath.sln
